@@ -6,6 +6,6 @@ def fizzbuzz(num)
     elsif(num % 5 == 0)
       "Buzz"
     else
-      "Sorry! #{num} isn't divisible by 5 or 3!"
+      nil
   end
 end
