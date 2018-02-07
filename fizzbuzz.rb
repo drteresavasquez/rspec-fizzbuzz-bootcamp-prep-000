@@ -7,5 +7,6 @@ def fizzbuzz(num)
       "Buzz"
     else
       nil
+      # "Sorry! #{num} isn't divisible by 5 or 3!"
   end
 end
