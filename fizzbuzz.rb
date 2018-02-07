@@ -8,5 +8,4 @@ def fizzbuzz(num)
   }else{
     "Sorry! #{num} isn't divisible by 5 or 3!"
   }
- 
 end
